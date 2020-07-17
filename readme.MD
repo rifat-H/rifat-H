@@ -13,7 +13,6 @@ I'm a software engineer who is passionate about Programming💻. I'm Experienced
 
 <code><img height="50" src="https://camo.githubusercontent.com/f72f377226de9f17aa8de60aacd287069503c807/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f68746d6c2d352e737667"></code>
 <code><img height="50" src="https://camo.githubusercontent.com/f68dff6e71f5f47d3cbb727b0112b162b2cf32a1/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6373732d332e737667"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="50" src="https://camo.githubusercontent.com/21a9e6f9bdaf1bbe47706acfe4c2889b7085de22/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f736173732e737667"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></code>
