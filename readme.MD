@@ -11,6 +11,11 @@ I'm a software engineer who is passionate about Programming💻. I'm Experienced
 
 ## Languages
 
+<code><img height="50" src="https://camo.githubusercontent.com/f72f377226de9f17aa8de60aacd287069503c807/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f68746d6c2d352e737667"></code>
+<code><img height="50" src="https://camo.githubusercontent.com/f68dff6e71f5f47d3cbb727b0112b162b2cf32a1/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6373732d332e737667"></code>
+<code><img height="50" src="https://camo.githubusercontent.com/21a9e6f9bdaf1bbe47706acfe4c2889b7085de22/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f736173732e737667"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 ## About me
@@ -19,8 +24,8 @@ I'm a software engineer who is passionate about Programming💻. I'm Experienced
 
 - 🔭 I’m currently working on @php
 - 🌱 I’m currently learning php, js, typescript.
-- 📫 How to reach me: sent me email
-- ⚡️ Fun fact: Dont Talk about Crush I only Know About App Crush
+- 📫 How to reach me: sent me email.
+- ⚡️ Reach Me: If you want to talk about old school hip-hop.
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=rifat-H&show_icons=true&hide_border=true)
 
