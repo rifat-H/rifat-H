@@ -9,7 +9,7 @@
 
 I'm a software engineer who is passionate about Programming💻. I'm Experienced with all stages of the development cycle for dynamic web applications. Well-versed in numerous programming languages and databases. I have experience in developing and implementing REST API in applications.
 
-## Languages
+## Languages And Tools
 
 <code><img height="50" src="https://camo.githubusercontent.com/f72f377226de9f17aa8de60aacd287069503c807/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f68746d6c2d352e737667"></code>
 <code><img height="50" src="https://camo.githubusercontent.com/f68dff6e71f5f47d3cbb727b0112b162b2cf32a1/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6373732d332e737667"></code>
@@ -18,6 +18,8 @@ I'm a software engineer who is passionate about Programming💻. I'm Experienced
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"></code>
+<code><img height="50" src="https://media.githubusercontent.com/media/microsoft/vscode-docs/master/images/logo-stable.png"></code>
+<code><img height="50" src="https://camo.githubusercontent.com/ad0a21739b4fb3abda5cc171ac277a8053882135/68747470733a2f2f6c61726176656c2e636f6d2f6173736574732f696d672f636f6d706f6e656e74732f6c6f676f2d6d69782e737667"></code>
 
 ## About me
 
