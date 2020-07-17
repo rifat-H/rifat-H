@@ -3,11 +3,8 @@
 # I'm MD.Rifat Hossain 👨‍💻
 
 <a href="https://www.facebook.com/m.rifath.hossain" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/rifat_hossain21/)](https://twitter.com/rifat_hossain21/)
-
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/7938471/rifat-h?tab=profile)](https://stackoverflow.com/users/7938471/rifat-h?tab=profile)
-
 <a href="https://www.instagram.com/rakibul107/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+8801627390757&text=Rakib)](https://api.whatsapp.com/send?phone=+8801627390757&text=Rakib)
