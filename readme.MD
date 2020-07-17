@@ -30,7 +30,7 @@ I'm a software engineer who is passionate about Programming💻. I'm Experienced
 :heart: Programming | :black_heart: Hip-Hop | :blue_heart: Video Game
 
 - 🔭 I’m currently working on truckchai.com
-- 🌱 I’m currently learning typescript, svelte, neural.
+- 🌱 I’m currently learning typescript, svelte, neural network.
 - 📫 How to reach me: sent me email.
 - ⚡️ Reach Me: If you want to talk about old school hip-hop or anything.
 
