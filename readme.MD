@@ -26,5 +26,4 @@ I'm a software engineer who is passionate about Programming💻. I'm Experienced
 
 ---
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/rakib_ang3?style=social)](https://twitter.com/rifat_hossain21/)
 [visitors](https://visitor-badge.glitch.me/badge?page_id=rifat-H)
