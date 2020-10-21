@@ -32,7 +32,7 @@ I'm a software engineer who is passionate about Programming💻. I'm Experienced
 - 🔭 I’m currently working on truckchai.com
 - 🌱 I’m currently learning typescript, svelte, neural network.
 - 📫 How to reach me: sent me email.
-- ⚡️ Reach Me: If you want to talk about old school hip-hop or anything.
+
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=rifat-H&show_icons=true&hide_border=true)
 
